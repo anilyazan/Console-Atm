@@ -1,0 +1,8 @@
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\obj\Debug\atmmm.csproj.AssemblyReference.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\obj\Debug\atmmm.csproj.SuggestedBindingRedirects.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\obj\Debug\atmmm.csproj.CoreCompileInputs.cache
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\bin\Debug\atmmm.exe.config
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\bin\Debug\atmmm.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\bin\Debug\atmmm.pdb
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\obj\Debug\atmmm.exe
+C:\Users\anily\OneDrive\Masaüstü\C#\atmmm\atmmm\obj\Debug\atmmm.pdb
